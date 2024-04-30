@@ -1,0 +1,12 @@
+{
+    "name": "Node-RED-Project-test-1",
+    "description": "Testando controle de versões com Node-RED e Git",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
