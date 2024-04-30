@@ -1,7 +1,7 @@
 Node-RED-Project-test-1
 =======================
 
-Testando controle de versões com Node-RED e Git
+Testando controle de versões com Node-RED, Git e Github
 
 ### About
 
